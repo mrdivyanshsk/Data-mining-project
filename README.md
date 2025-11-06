@@ -95,8 +95,8 @@ You need Python 3.x installed. The required libraries are listed below.
 Clone the repository and install dependencies:
 
 # Clone the repository (replace <Your_Repo_URL> with the actual URL)
-git clone <Your_Repo_URL>
-cd <your-repository-name>
+git clone (https://github.com/mrdivyanshsk/Data-mining-project)
+cd Data-mining-project
 
 # Install required Python libraries
 pip install pandas scikit-learn plotly
